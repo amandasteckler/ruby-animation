@@ -1,6 +1,6 @@
 system "clear"
 
-# friend1 walks in from right
+# friend0.5 walks in from right
 
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -10,7 +10,7 @@ puts " | |  "
 puts "  |   "
 puts " d b  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -20,7 +20,7 @@ puts "     //  "
 puts "      |   "
 puts "     b d  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -30,7 +30,7 @@ puts "         | |  "
 puts "          |   "
 puts "         d b  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -40,7 +40,7 @@ puts "             //  "
 puts "              |   "
 puts "             b d  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -50,7 +50,7 @@ puts "                 | |  "
 puts "                  |   "
 puts "                 d b  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -60,7 +60,7 @@ puts "                     //  "
 puts "                      |   "
 puts "                     b d  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -70,7 +70,7 @@ puts "                         | |  "
 puts "                          |   "
 puts "                         d b  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -80,7 +80,7 @@ puts "                             //   "
 puts "                              |   "
 puts "                             b d  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -95,7 +95,7 @@ puts "                                 d b  "
 
 # friend2 walks in from right
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -106,7 +106,7 @@ puts "                                  |                                       
 puts "                                 d b                                     d b  "
 
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -116,7 +116,7 @@ puts "                                 | |                                 //   
 puts "                                  |                                   |   "
 puts "                                 d b                                 b d  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -126,7 +126,7 @@ puts "                                 | |                             | |  "
 puts "                                  |                               |   "
 puts "                                 d b                             d b  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -136,7 +136,7 @@ puts "                                 | |                         //   "
 puts "                                  |                           |   "
 puts "                                 d b                         b d  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -146,7 +146,7 @@ puts "                                 | |                     | |  "
 puts "                                  |                       |   "
 puts "                                 d b                     d b  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -156,7 +156,7 @@ puts "                                 | |                 //   "
 puts "                                  |                   |   "
 puts "                                 d b                 b d  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -166,7 +166,7 @@ puts "                                 | |             | |  "
 puts "                                  |               |   "
 puts "                                 d b             d b  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -176,7 +176,7 @@ puts "                                 | |         //   "
 puts "                                  |           |   "
 puts "                                 d b         b d  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -196,7 +196,7 @@ puts "                                 | |     | |  "
 puts "                                  |       |   "
 puts "                                 d b     d b  "
 
-sleep 2
+sleep 1
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -216,7 +216,7 @@ puts "                                 | |     | |  "
 puts "                                  |       |   "
 puts "                                 d b     d b  "
 
-sleep 2
+sleep 1
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -317,7 +317,7 @@ puts "                                 | |     | |  "
 puts "                                  |       |   "
 puts "                                 d b     d b  "
 
-sleep 0.5
+sleep 0.25
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -327,7 +327,7 @@ puts "                                 | |     | |  "
 puts "                                  |       |   "
 puts "                                 d b     d b  "
 
-sleep 1
+sleep 0.5
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
@@ -337,7 +337,7 @@ puts "                                 | |     | |  "
 puts "                                  |       |   "
 puts "                                 d b     d b  "
 
-sleep 1
+sleep 0.5
 system "clear"
 
 puts "\n \n \n \n \n        F  R  I  E  N  D  S    (W  H  O    A  L  S  O    D  A  N  C  E) \n \n \n \n \n"
